@@ -15,5 +15,5 @@ CSS3: For styling and layout using Flexbox.
 Responsive Design Techniques: Ensures usability across devices.
 Screenshots
 Full Layout (Desktop View)
-![Alt text](/Image/1.png)
+![Alt text](Image/1.png)
 
