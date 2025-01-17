@@ -34,5 +34,5 @@ This project showcases various CSS techniques used to style a modern, responsive
 ## Visual 
 Expected Outcome 
 
-![Alt text](1.png)
+![Alt text](Assets/md.png)
 
